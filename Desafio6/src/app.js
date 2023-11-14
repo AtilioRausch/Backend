@@ -27,7 +27,7 @@ app.use(cookieParser("SecretCookie"));
 
 // sessions
 const URI =
-'mongodb+srv://cibanez:JUiXF4gBSbSulLkt@cluster0.21urnbo.mongodb.net/ecommerce?retryWrites=true&w=majority'
+"mongodb+srv://atiliorau:NYtEUvEfZTUMxCuR@cluster0.1q0tid2.mongodb.net/ecommerce?retryWrites=true&w=majority";
 app.use(
   session({
     store: new MongoStore({
