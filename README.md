@@ -14,4 +14,6 @@ Desafío | Clase 15: se encuentra en el directorio Desafio5
 
 Preentrega 2 | se encuentra en el directorio Preentrega 2
 
-Desafío | Clase 21: se encuentra en el directorio Desafio6
+Desafío | Clase 19: se encuentra en el directorio Desafio6
+
+Desafío | Clase 21: se encuentra en el directorio Desafio7
