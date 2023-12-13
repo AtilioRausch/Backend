@@ -19,3 +19,5 @@ Desafío | Clase 19: se encuentra en el directorio Desafio6
 Desafío | Clase 21: se encuentra en el directorio Desafio7
 
 Integradora | Clase 24: se encuentra en el directorio  PracticaIntegradora
+
+Desafío | Clase 27: se encuentra en el directorio Desafio8
