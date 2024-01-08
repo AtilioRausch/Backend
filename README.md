@@ -23,3 +23,5 @@ Integradora | Clase 24: se encuentra en el directorio  PracticaIntegradora
 Desafío | Clase 27: se encuentra en el directorio Desafio8
 
 Preentrega 3 | Clase 30: se encuentra en el directorio Preentrega3
+
+Desafio | Clase 32: se encuentra en el directorio Desafio9
